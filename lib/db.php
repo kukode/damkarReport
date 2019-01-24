@@ -1,5 +1,6 @@
 <?php
 include 'configVar.php';
+
 $host = "localhost";
 $user = USER;
 $passsword = PASS;
